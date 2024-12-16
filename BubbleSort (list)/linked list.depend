@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1733923894 source:d:\iti (cloud platform dev)\7.data structure\linked list\linked list\main.cpp
+	<iostream>
+	<stdexcept>
+	"linkedList.h"
+
+1733924431 d:\iti (cloud platform dev)\7.data structure\linked list\linked list\include\linkedlist.h
+	"node.h"
+	<iostream>
+	<stdexcept>
+
+1733917467 d:\iti (cloud platform dev)\7.data structure\linked list\linked list\include\node.h
+
+1734178539 source:d:\iti (cloud platform dev)\7.data structure\linked list\main.cpp
+	<iostream>
+	<stdexcept>
+	"linkedList.h"
+
+1734180067 d:\iti (cloud platform dev)\7.data structure\linked list\include\linkedlist.h
+	"node.h"
+	<iostream>
+	<stdexcept>
+
+1733917467 d:\iti (cloud platform dev)\7.data structure\linked list\include\node.h
+
+1734178539 source:d:\iti (cloud platform dev)\7.data structure\sort\linked list\main.cpp
+	<iostream>
+	<stdexcept>
+	"linkedList.h"
+
+1734180067 d:\iti (cloud platform dev)\7.data structure\sort\linked list\include\linkedlist.h
+	"node.h"
+	<iostream>
+	<stdexcept>
+
+1733917467 d:\iti (cloud platform dev)\7.data structure\sort\linked list\include\node.h
+

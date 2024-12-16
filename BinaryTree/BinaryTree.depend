@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734360340 source:d:\iti (cloud platform dev)\7.data structure\binarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+	"Exception.h"
+
+1734360154 d:\iti (cloud platform dev)\7.data structure\binarytree\include\binarytree.h
+	"Node.h"
+	"Exception.h"
+
+1734360529 d:\iti (cloud platform dev)\7.data structure\binarytree\include\node.h
+
+1734346129 d:\iti (cloud platform dev)\7.data structure\binarytree\include\exception.h
+	<string>
+

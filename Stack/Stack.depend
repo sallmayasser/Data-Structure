@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1734013510 source:d:\iti (cloud platform dev)\7.data structure\stack\main.cpp
+	<iostream>
+	"Stack.h"
+	"StackArr.h"
+
+1734010064 d:\iti (cloud platform dev)\7.data structure\stack\include\stack.h
+	"Node.h"
+	"Exception.h"
+
+1734006620 d:\iti (cloud platform dev)\7.data structure\stack\include\node.h
+
+1734009415 d:\iti (cloud platform dev)\7.data structure\stack\include\exception.h
+	<string>
+
+1734013166 d:\iti (cloud platform dev)\7.data structure\stack\include\stackarr.h
+
